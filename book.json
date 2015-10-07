@@ -8,7 +8,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "wp_lai"
+            "shortName": "wp-lai"
         }
     } 
 }
