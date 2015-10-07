@@ -1,7 +1,8 @@
 # Summary
 - [教学反转]()
-    + [交互式问答功能](0MOOC/quiz.md)
-    + [数学公式](0MOOC/math.md)
+    + [GitBook评论功能](0MOOC/DISQUS.md)
+    + [GitBook交互式问答功能](0MOOC/quiz.md)
+    + [GitBook数学公式显示功能](0MOOC/math.md)
 - [基础旋进]()
 - [迭代作品]()
 - [人生首秀]()
