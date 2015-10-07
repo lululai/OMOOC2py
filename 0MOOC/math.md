@@ -10,16 +10,7 @@
 
 ## 使用
 写文档时：
-1. 可以在`{% math %}`区块中添加Tex公式  
-如  
-```
-When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}(ax^2 + bx + c = 0){% endmath %} and they are {% math %}x = {-b \pm \sqrt{b^2-4ac} \over 2a}.{% endmath %}
-```
-会显示为  
-
-When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}(ax^2 + bx + c = 0){% endmath %} and they are {% math %}x = {-b \pm \sqrt{b^2-4ac} \over 2a}.{% endmath %}
-
-2. 用`$$`包围公式代码区块  
+用`$$`包围公式代码区块  
 如
 ```
 When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
