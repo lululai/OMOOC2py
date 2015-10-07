@@ -3,6 +3,7 @@
     + [GitBook评论功能](0MOOC/DISQUS.md)
     + [GitBook交互式问答功能](0MOOC/quiz.md)
     + [GitBook数学公式显示功能](0MOOC/math.md)
+    + [使用npm国内镜像](0MOOC/cnpmjs.md)
 - [基础旋进]()
 - [迭代作品]()
 - [人生首秀]()
