@@ -20,6 +20,21 @@ When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they ar
 
 When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
+
+Inline math: $$\int_{-\infty}^\infty g(x) dx$$
+
+
+Block math:
+
+$$
+\int_{-\infty}^\infty g(x) dx
+$$
+
+Or using the templating syntax:
+
+{% math %}\int_{-\infty}^\infty g(x) dx{% endblock %}
+
+
 ## 体验
 将本地repo push到github之后，gitbook可以正确显示公式
 
