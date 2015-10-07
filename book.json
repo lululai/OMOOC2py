@@ -1,7 +1,8 @@
-{"title": "开智学院 编程课程 Python 入门班 私人教程模板",
+{
+    "title": "小赖的python学习笔记",
     "version": "15.9.18,2020",
-    "description": "OMOOC.py tutorial for teching",
-    "author": "OMOOC-support <omooc-support@googlegroups.com>",
+    "description": "记录学习python过程中的点点滴滴",
+    "author": "Alan Lai <techwplai@gmail.com>",
 
     "plugins": [
         "disqus"
