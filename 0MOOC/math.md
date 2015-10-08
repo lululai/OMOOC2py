@@ -1,4 +1,4 @@
-# Mathjax plugin 私人教程
+# Ketax
 
 ## 背景
 在技术文档书写过程中常常会碰到数学公式的编写，GitBook中的Ketax插件可以展示Tex格式的数学公式
