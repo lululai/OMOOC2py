@@ -5,6 +5,8 @@
         * [交互式问答](0MOOC/quiz.md)
         * [数学公式](0MOOC/math.md)
         * [使用npm国内镜像](0MOOC/cnpmjs.md)
+    + [python实战]()
+        * [命令行进行淘宝搜索](0MOOC/taobao.md)
 - [基础旋进]()
 - [迭代作品]()
 - [人生首秀]()
