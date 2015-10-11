@@ -22,6 +22,14 @@
 ## 使用
 进行正确安装和配置之后，在GitBook每个内容页面的最下端就可以看到Disqus评论区。
 
+### 在Disqus中使用代码高亮
+Disqus的评论中如果想使用代码块高亮功能，要在代码的上下两边加`pre`和`code`的html tag
+例如：
+```
+<pre><code class="python">
+print "Hello World"
+</code></pre>
+```
 
 <!-- ## 体验 -->
 
