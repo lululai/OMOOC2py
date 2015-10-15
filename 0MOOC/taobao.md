@@ -140,7 +140,6 @@ for i in keywords:
 url = url[:-1]
 subprocess.call(["open", url])
 ```
-
 之后测试中文关键词、多关键词都运行成功，算是实现了设想的功能。
 
 ps： Mac下面，可以在命令行多加一句`say`的命令，用于命令执行完进行提示。例如
@@ -149,3 +148,18 @@ python search_taobao.py 书;say mission complete
 ```
 执行之后，系统会说mission complete，瞬间成就感爆表。
 
+pps: 后来发现用os.system()调用命令行命令也行
+代码可改为
+```python
+# coding:utf-8
+import os
+import sys
+
+keywords = sys.argv[1:]
+
+url = "https://s.taobao.com/search?q="
+for i in keywords:
+    url += i + "+"
+url = url[:-1]
+os.system("open "+url)
+```
