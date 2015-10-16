@@ -2,6 +2,7 @@
 - [教学反转]()
     + [GitBook生态圈]()
         * [评论](0MOOC/DISQUS.md)
+        * [嵌入代码](0MOOC/gist_embed.md)
         * [交互式问答](0MOOC/quiz.md)
         * [数学公式](0MOOC/math.md)
         * [使用npm国内镜像](0MOOC/cnpmjs.md)
