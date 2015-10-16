@@ -7,6 +7,7 @@
         * [使用npm国内镜像](0MOOC/cnpmjs.md)
     + [python实战]()
         * [命令行进行淘宝搜索](0MOOC/taobao.md)
+        * [时间格式转换](0MOOC/strftime.md)
 - [基础旋进]()
 - [迭代作品]()
 - [人生首秀]()
